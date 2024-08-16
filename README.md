@@ -12,4 +12,4 @@ You can click the Preview link to take a look at your changes.
 --->
 Copy this to ur Google Chorme link bar : https://bom.so/s1iB1
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Orange10github's GitHub stats](https://github-readme-stats.vercel.app/api?username=Orange10github)](https://github.com/anuraghazra/github-readme-stats)
